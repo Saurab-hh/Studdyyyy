@@ -35,6 +35,10 @@ Fast development and optimized builds using Vite
 Type safety with TypeScript
 
 📂 Project Structure
+
+
+
+
 <img width="387" height="578" alt="Screenshot 2025-12-24 at 4 30 11 AM" src="https://github.com/user-attachments/assets/c935dc94-ad62-41ca-a358-d6af58be2de0" />
 
 
