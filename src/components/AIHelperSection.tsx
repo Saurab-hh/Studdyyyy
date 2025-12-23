@@ -8,7 +8,7 @@ import { generateAIResponse, getTypingDelay } from '@/lib/aiHelper';
 /**
  * AIHelperSection component
  * Chat-style interface for AI assistance
- * Simulates AI responses for summarization, explanation, and revision
+ * Simulates AI responses for summarization, explanation, and revisionnna
  */
 const AIHelperSection = () => {
   const [messages, setMessages] = useState<ChatMessage[]>([
