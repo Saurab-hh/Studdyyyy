@@ -16,7 +16,7 @@ interface NoteEditorProps {
 /**
  * NoteEditor component
  * Modal for creating and editing notes
- * Includes word counter and auto-save indicator
+ * Includes word counter and auto-save indicatorr
  */
 const NoteEditor = ({ note, isOpen, onClose, onSave }: NoteEditorProps) => {
   const [title, setTitle] = useState('');
