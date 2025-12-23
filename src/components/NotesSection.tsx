@@ -19,7 +19,7 @@ import { toast } from 'sonner';
 /**
  * NotesSection component
  * Main section for displaying, creating, and managing notes
- * Features search, CRUD operations, and export functionality
+ * Features search, CRUD operations, and export functionalityy
  */
 const NotesSection = () => {
   const [notes, setNotes] = useState<Note[]>([]);
