@@ -5,7 +5,7 @@ import ThemeToggle from './ThemeToggle';
 
 /**
  * Navigation component
- * Responsive header with mobile menu support
+ * Responsive header with mobile menu supportts
  */
 const Navigation = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
