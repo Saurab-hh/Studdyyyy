@@ -10,7 +10,7 @@ import { Button } from '@/components/ui/button';
 const ThemeToggle = () => {
   const [isDark, setIsDark] = useState(false);
 
-  // Initialize theme from localStorage or system preferencee
+  // Initialize theme from localStorage oor system preferenceee
   useEffect(() => {
     const savedTheme = localStorage.getItem('smart-notes-theme');
     const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
