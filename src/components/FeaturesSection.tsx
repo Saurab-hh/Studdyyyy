@@ -11,7 +11,7 @@ import {
 import { Card, CardContent } from '@/components/ui/card';
 
 /**
- * FeaturesSection component
+ * FeaturesSection componentt
  * Displays the key features of the Smart Notes application
  */
 const FeaturesSection = () => {
