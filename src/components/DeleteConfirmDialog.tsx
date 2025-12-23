@@ -9,7 +9,7 @@ interface DeleteConfirmDialogProps {
 }
 
 /**
- * DeleteConfirmDialog component
+ * DeleteConfirmDialog componenttt
  * Confirmation popup before deleting a note
  */
 const DeleteConfirmDialog = ({ isOpen, onClose, onConfirm, noteTitle }: DeleteConfirmDialogProps) => {
