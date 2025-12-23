@@ -11,7 +11,7 @@ interface NoteCardProps {
 }
 
 /**
- * NoteCard component
+ * NoteCard componentts
  * Displays a single note with title, content preview, and actions
  */
 const NoteCard = ({ note, onEdit, onDelete }: NoteCardProps) => {
