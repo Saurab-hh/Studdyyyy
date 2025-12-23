@@ -1,73 +1,128 @@
-# Welcome to your Lovable project
+📘 StudyBuddy
 
-## Project info
+StudyBuddy is a modern, user-friendly web application designed to help users manage their learning effectively. The project is built using a modern frontend stack with a focus on performance, clean UI, and scalability.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+🚀 Project Overview
 
-## How can I edit this code?
+StudyBuddy provides an interactive interface for learning, note-taking, and study management. It demonstrates the use of modern frontend tools, component-based architecture, and utility-first styling to create a responsive and maintainable application.
 
-There are several ways of editing your application.
+🛠️ Tech Stack
 
-**Use Lovable**
+This project is built with the following technologies:
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+Vite – Fast development build tool
 
-Changes made via Lovable will be committed automatically to this repo.
+TypeScript – Type-safe JavaScript
 
-**Use your preferred IDE**
+React – Component-based UI library
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+shadcn/ui – Reusable and accessible UI components
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Tailwind CSS – Utility-first CSS framework
 
-Follow these steps:
+✨ Features
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Modern and responsive user interface
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Component-based architecture using React
 
-# Step 3: Install the necessary dependencies.
-npm i
+Reusable UI components with shadcn-ui
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+Clean and maintainable styling with Tailwind CSS
+
+Fast development and optimized builds using Vite
+
+Type safety with TypeScript
+
+📂 Project Structure
+studybuddy/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── hooks/
+│   ├── App.tsx
+│   └── main.tsx
+├── public/
+├── package.json
+├── tailwind.config.js
+├── tsconfig.json
+└── vite.config.ts
+
+⚙️ Installation & Setup
+
+Follow these steps to run the project locally:
+
+1️⃣ Clone the Repository
+git clone https://github.com/your-username/studybuddy.git
+
+2️⃣ Navigate to Project Folder
+cd studybuddy
+
+3️⃣ Install Dependencies
+npm install
+
+4️⃣ Start Development Server
 npm run dev
-```
 
-**Edit a file directly in GitHub**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+The app will run at:
 
-**Use GitHub Codespaces**
+http://localhost:5173
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+🎨 Screenshots
+<img width="1470" height="956" alt="Screenshot 2025-12-23 at 9 18 49 PM" src="https://github.com/user-attachments/assets/4e372b88-5948-472c-85e8-d825bca942f3" />
+<img width="1470" height="956" alt="Screenshot 2025-12-23 at 9 12 11 PM" src="https://github.com/user-attachments/assets/55a2da17-5148-47a0-966b-88d8d9658db4" />
+<img width="1470" height="956" alt="Screenshot 2025-12-23 at 8 36 23 PM" src="https://github.com/user-attachments/assets/f1291010-5d33-46df-81b5-434961f64e45" />
 
-## What technologies are used for this project?
 
-This project is built with:
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
 
-## How can I deploy this project?
+🎨 Styling
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+Tailwind CSS is used for layout, spacing, and responsiveness.
 
-## Can I connect a custom domain to my Lovable project?
+shadcn-ui provides accessible, customizable UI components.
 
-Yes, you can!
+The design follows a clean and minimal approach for better usability.
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+📦 Scripts
+Command	Description
+npm run dev	Start development server
+npm run build	Build for production
+npm run preview	Preview production build
+🧪 Learning Outcomes
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Through this project, the following concepts are demonstrated:
+
+React functional components and hooks
+
+TypeScript integration in React projects
+
+Modern project setup using Vite
+
+Component reusability and UI consistency
+
+Utility-first CSS workflow
+
+Clean project structure and best practices
+
+🔮 Future Improvements
+
+User authentication
+
+Cloud-based data storage
+
+AI-powered study assistant
+
+Dark/light theme toggle
+
+Progress tracking and analytics
+
+📌 Conclusion
+
+StudyBuddy is a well-structured modern web application showcasing the use of current frontend technologies. It serves as both a learning project and a foundation for building scalable, real-world applications.
+
+👤 Author
+
+Sourav Singh
+Frontend Developer
