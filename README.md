@@ -88,7 +88,7 @@ studybuddy/
 Follow these steps to run the project locally:
 
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/studybuddy.git
+git clone https://github.com/saurab-hh/studybuddy.git
 
 2️⃣ Navigate to Project Folder
 cd studybuddy
