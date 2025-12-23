@@ -8,7 +8,7 @@ import { Button } from '@/components/ui/button';
 const HeroSection = () => {
   return (
     <section id="home" className="min-h-screen flex items-center justify-center pt-16 relative overflow-hidden">
-      {/* Background decorative elements */}
+      {/* Background decorative elements  hiiiiiiiiii*/}
       <div className="absolute inset-0 pointer-events-none">
         <div className="absolute top-20 left-10 w-72 h-72 bg-primary/10 rounded-full blur-3xl float-animation" />
         <div className="absolute bottom-20 right-10 w-96 h-96 bg-accent/10 rounded-full blur-3xl float-animation" style={{ animationDelay: '3s' }} />
